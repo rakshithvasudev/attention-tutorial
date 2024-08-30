@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/attention-tutorial/static/css/main.e6c13ad2.css",
+    "main.js": "/attention-tutorial/static/js/main.5779ec35.js",
+    "static/js/453.f7f02bd9.chunk.js": "/attention-tutorial/static/js/453.f7f02bd9.chunk.js",
+    "index.html": "/attention-tutorial/index.html",
+    "main.e6c13ad2.css.map": "/attention-tutorial/static/css/main.e6c13ad2.css.map",
+    "main.5779ec35.js.map": "/attention-tutorial/static/js/main.5779ec35.js.map",
+    "453.f7f02bd9.chunk.js.map": "/attention-tutorial/static/js/453.f7f02bd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5779ec35.js"
+  ]
+}
